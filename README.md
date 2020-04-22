@@ -1,5 +1,5 @@
 # real_dl_class
-친절한 실전 딥러닝 수업(김찬란, 비제이퍼블릭) study repository
+[친절한 실전 딥러닝 수업(김찬란, 비제이퍼블릭)](https://github.com/bjpublic/TMI-Deeplearning) study repository
 
 공부하면서 필요한 메모를 하는 공간 입니다.
 
@@ -22,8 +22,8 @@
     * ICCV: International Conference on Computer Vision
     * ECCV: European Conference on Computer Vision
     * ACL: Association for Computational Linguistics
-    * EMNLP: Conference on Natural Language Processing
-* Good reference Sites
+    * EMNLP-IJCNLP: Conference on Empirical Method in Natural Language Processing and International Joint Conference on Natural Language Processing
+* Good Reference Sites
     * [Keras Applications](https://github.com/keras-team/keras-applications)
     * [Modelzoo - Keras](https://modelzoo.co/framework/keras)
     * [Modelzoo - Pytorch](https://modelzoo.co/framework/pytorch)
